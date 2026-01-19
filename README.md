@@ -1,5 +1,8 @@
 Sistema de Avisos de Clase
 
+Integrantes del Equipo 
+Luis David Escobedo Ojeda - 
+Melissa Valeria Leilani Quintero Fraustro -> https://github.com/valeria-quintero/Aplicaci-n-cliente-servidor-de-mensajes
 
 Descripción
 Sistema simple de avisos para alumnos usando sockets TCP. Permite publicar y consultar avisos de clase en tiempo real mediante una arquitectura cliente-servidor con conexión persistente.
